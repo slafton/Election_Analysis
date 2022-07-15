@@ -16,15 +16,15 @@
 ### The analysis of the election show that:
 ### - There were 369,711 votes cast in the election.
 ### - The candidates were:
-	### - Charles Casper Stockham
-	### - Diana DeGette
-	### - Raymon Anthony Doane
+	 - Charles Casper Stockham
+	 - Diana DeGette
+	 - Raymon Anthony Doane
 ### - The candidate results were:
-	### - Charles Casper Stockham received 23.0% of the votes and 85,213 total votes.
-	### - Diana DeGette received 73.8% of the votes and 272,892 total votes.
-	### - Raymon Anthony Doane received 3.1% of the votes and 11,606 total votes.
+	 - Charles Casper Stockham received 23.0% of the votes and 85,213 total votes.
+	 - Diana DeGette received 73.8% of the votes and 272,892 total votes.
+	 - Raymon Anthony Doane received 3.1% of the votes and 11,606 total votes.
 ### - The winner of the election was:
-	### - Diana DeGette, who received 73.8% of the votes and 272,892 total votes.
+	 - Diana DeGette, who received 73.8% of the votes and 272,892 total votes.
 
 ## Challenge Overview
 ### In this challenge we will import data from a csv file. We will become familiar with python by writing code with if, for, and f string statements after we create paths to pull our data and enable us to write data to a new file with our findings. 
